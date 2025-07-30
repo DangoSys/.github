@@ -1,6 +1,6 @@
 ## Introduction
 
-Buckyball is an end-to-end architecture and software framework for DSAs (domain-specific architectures) and DSLs (domain-specific languages). Its goal is to implement a powerful, scalable, high-performance next-generation neural network architecture.
+Buckyball is an end-to-end architecture and algorithm framework for DSAs (domain-specific architectures) and DSLs (domain-specific languages). Its goal is to implement a powerful, scalable, high-performance next-generation neural network architecture.
 
 ## Contact Us
 
