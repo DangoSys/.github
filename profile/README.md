@@ -1,9 +1,9 @@
 ## Introduction
 
-Buckyball is an end-to-end architecture and algorithm framework for DSAs (domain-specific architectures) and DSLs (domain-specific languages). Its goal is to implement a powerful, scalable, high-performance next-generation neural network architecture.
+Buckyball is a comprehensive end-to-end architecture and algorithm framework designed for Domain-Specific Architectures (DSAs) and Domain-Specific Languages (DSLs). Our mission is to deliver a powerful, scalable, and high-performance next-generation neural network architecture.
 
 ## Contact Us
 
-- Buckyball is currently in its development stage. If you are passionate about open source and enjoy mlsys, whether for learning purposes or if you have better ideas, you are welcome to join us.
+- Buckyball is actively under development. If you are passionate about open source and enjoy MLSys, whether you're interested in learning, contributing or collaborating on research, you are welcome to join us.
 
 - Email: zhejiang.arch@gmail.com
