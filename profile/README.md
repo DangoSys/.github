@@ -4,6 +4,6 @@ Buckyball is an end-to-end architecture and algorithm framework designed for Dom
 
 ## Contact Us
 
-- Buckyball is actively under development. If you are passionate about open source and enjoy MLSys, whether you're interested in learning, contributing or collaborating on research, you are welcome to join us.
+- Buckyball is actively under development. If you are passionate about open source and enjoy MLSys, whether you're interested in learning, contributing or collaborating on research, you are welcome to join us. **Have a ball and let’s keep the ball rolling!**
 
 - Email: zhejiang.arch@gmail.com
